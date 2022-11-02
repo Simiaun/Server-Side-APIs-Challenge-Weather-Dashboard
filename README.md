@@ -2,4 +2,4 @@
 ## Link
 https://simiaun.github.io/Server-Side-APIs-Challenge-Weather-Dashboard/
   
-<img width="1622" alt="06weatherdashboard" src="https://user-images.githubusercontent.com/106162334/199407597-10ff0fc7-790c-4931-b6fb-7a0a1268a4b5.PNG">
+![06weatherdashboard](https://user-images.githubusercontent.com/106162334/199407911-9d852a4c-ec6e-4244-8273-f5cf4e3441c2.PNG)
